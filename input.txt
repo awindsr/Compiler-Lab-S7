@@ -1,0 +1,4 @@
+Write a program to implement lexical analyser for a given program using Lex Tool.
+Start
+    Read the input text.
+    For each yytext:
